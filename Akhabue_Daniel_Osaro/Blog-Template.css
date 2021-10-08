@@ -1,0 +1,69 @@
+.u-section-1 {
+  background-image: url("images/BSS3.png");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1174px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.5rem;
+  margin: 383px -115px 60px 773px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    min-height: 971px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 968px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: -109px;
+    margin-left: 673px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 {
+    min-height: 744px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 741px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 563px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 {
+    min-height: 558px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 556px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 473px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    min-height: 351px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 350px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 373px;
+  }
+}
