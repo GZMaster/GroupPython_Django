@@ -1,0 +1,80 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 999px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  margin: 110px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 386px;
+  height: 386px;
+  background-image: url("images/WhatsAppImage2021-10-08at12.50.36PM.jpeg");
+  background-position: 50% 50%;
+  margin: 49px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 300;
+  line-height: 1.8;
+  width: 739px;
+  margin: 13px auto 0;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 50px;
+  min-height: 16px;
+  width: 50px;
+  min-width: 16px;
+  margin: 31px auto 41px;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 100%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 968px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 570px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 922px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    width: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 340px;
+    margin-top: 64px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+}
